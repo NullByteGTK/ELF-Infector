@@ -30,7 +30,7 @@ int main(int argc,char *argv[]){
 
 
   if(argc < 2){
-    printf("Usage: %s [target file]",argv[0]);
+    printf("Usage: %s [target file]\n",argv[0]);
     return 0;
   }
 
