@@ -1,2 +1,2 @@
 compile:
-	gcc -o infector inf.c
+	gcc -o infector infector.c
