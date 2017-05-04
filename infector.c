@@ -141,6 +141,6 @@ int main(int argc,char *argv[]){
   fputc(sll[3] + sll[2]*16,fr);
   fputc(sll[1] + sll[0]*16,fr);
   fclose(fr);
-  putchar('\n');
+  printf("Done\n");
   return 0;
 }
