@@ -1,5 +1,5 @@
 /*
-* File Infector
+* ELF Infector
 * Written by: NullByte
 * Github: NullByteGTK
 * Contact: nullbyteprivilege@gmail.com
