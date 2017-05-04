@@ -1,4 +1,4 @@
-# File Infector
+# ELF Infector
 A simple program written in C for injecting shellcode into ELF binaries<br>
 
 Usage:<br>
@@ -16,6 +16,6 @@ How it works:<br>
   program normally.
 
 If you found any bugs please report them to me<br>
-Contact: nullbyteprivilege@gmail.com
+Contact: nullbytegtk@gmail.com
 
 ******** I AM NOT RESPONSIBLE FOR ANY MISUSE OF THIS PROGRAM ********
