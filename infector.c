@@ -6,6 +6,7 @@
 
 #include <stdio.h>
 #include <string.h>
+#include <stdlib.h>
 
 int main(int argc,char *argv[]){
   FILE *fr; //File handler for opening the file
