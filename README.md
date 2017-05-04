@@ -1,4 +1,4 @@
-# file-infector
+# File Infector
 A simple program written in C for injecting shellcode into ELF binaries
 
 Usage:
