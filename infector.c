@@ -54,7 +54,7 @@ int main(int argc,char *argv[]){
   }
 
   fseek(fr,5,SEEK_SET);
-  if(fgetc(fr) != 1){ //Checks to see if the file is an executable ELF Binary or not
+  if(fgetc(fr) != 1){ //Checks to see if the file is Little endian or not
     printf("Big endian is not supported yet ;(\n");
     exit(0);
   }
